@@ -1,6 +1,7 @@
 # PyTorch Implementations
 
-A collection of pytorch notebooks implementing deep learning papers. This notebooks were developed during studying these papers and helped me reinforced the concepts strongly. I hope that these notebooks help other practitioner as well.
+A collection of pytorch notebooks implementing deep learning papers. This notebooks were developed during studying these papers and helped me reinforced the concepts strongly. The goal is to maintain this repository and add more paper implementations. I hope that these notebooks help other practitioners as well.
+
 
 Name | Notebook
 --- | ---
