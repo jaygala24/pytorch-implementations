@@ -14,8 +14,6 @@ Name | Notebook
 [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | [![colab link](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaygala24/pytorch-implementations/blob/master/Attention%20Is%20All%20You%20Need.ipynb)
 
 
-<br />
-
 ### Contribution
 
-If you would like to contribute a deep learning paper implementation, then please send the pull request. Maintaining a single repository showcasing different paper implementations would help other practitioners.
+If you would like to contribute a deep learning paper implementation, then please send the pull request with the jupyter notebook filename as the paper name. Maintaining a single repository showcasing different paper implementations would help other practitioners.
